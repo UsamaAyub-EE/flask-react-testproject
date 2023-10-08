@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Weather App</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='css/style.css') }}"
+    />
+  </head>
+  <body>
+    <h1>Current Weather</h1>
+    <p>Temperature: {{ weather_info.temperature }}°F</p>
+    <p>Description: {{ weather_info.description }}</p>
+  </body>
+</html>
