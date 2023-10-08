@@ -1,8 +1,3 @@
-shapar e shapar about project 
-
-also change the emails jo dene accordingly 
-
-
 docker p its not working sahe s bcz of email service m wo set kar dnga agar solution milta h to 
 
 
